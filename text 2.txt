@@ -1,0 +1,31 @@
+Business,Lat,Lon,Phone,Email
+La Chic Boutique,39.9605,-75.6051,(610) 255-2145,info@lachicbtq.com
+Tish Boutique,39.9609,-75.6042,(610) 222-6101,info@tishstyle.com
+Boutique Bella,39.9612,-75.6071,(610) 555-1234,bella@example.com
+Chester Flowers,39.9620,-75.6060,(610) 555-2345,info@chesterflowers.com
+West Chester Cafe,39.9595,-75.6035,(610) 555-3456,contact@wccafe.com
+Urban Threads,39.9580,-75.6055,(610) 555-4567,info@urbanthreads.com
+Artisan Bread,39.9575,-75.6040,(610) 555-5678,bread@artisan.com
+Chester Yoga,39.9565,-75.6025,(610) 555-6789,info@chesteryoga.com
+Bella Nails,39.9555,-75.6015,(610) 555-7890,bella@beauty.com
+Tech Hub,39.9545,-75.6005,(610) 555-8901,contact@techhub.com
+Green Market,39.9535,-75.5995,(610) 555-9012,green@market.com
+Vintage Vinyl,39.9525,-75.5985,(610) 555-0123,info@vinyl.com
+Coffee Corner,39.9515,-75.5975,(610) 555-1235,corner@coffee.com
+Book Nook,39.9505,-75.5965,(610) 555-2346,info@booknook.com
+Chester Gym,39.9495,-75.5955,(610) 555-3457,contact@chestergym.com
+Fresh Fruits,39.9485,-75.5945,(610) 555-4568,fresh@fruits.com
+Pet Pals,39.9475,-75.5935,(610) 555-5679,info@petpals.com
+The Bake Shop,39.9465,-75.5925,(610) 555-6780,bakeshop@example.com
+Chester Bikes,39.9455,-75.5915,(610) 555-7891,info@chesterbikes.com
+Flower Power,39.9445,-75.5905,(610) 555-8902,flower@power.com
+Cafe Delight,39.9435,-75.5895,(610) 555-9013,delight@cafe.com
+Urban Art,39.9425,-75.5885,(610) 555-0124,urban@art.com
+Chester Music,39.9415,-75.5875,(610) 555-1236,info@chestermusic.com
+Yoga Studio,39.9405,-75.5865,(610) 555-2347,contact@yogastudio.com
+Gourmet Cheese,39.9395,-75.5855,(610) 555-3458,info@gourmetcheese.com
+Vintage Threads,39.9385,-75.5845,(610) 555-4569,vintage@threads.com
+The Bookstore,39.9375,-75.5835,(610) 555-5670,books@bookstore.com
+Chester Spa,39.9365,-75.5825,(610) 555-6781,spa@chester.com
+Healthy Bites,39.9355,-75.5815,(610) 555-7892,info@healthybites.com
+Tech Solutions,39.9345,-75.5805,(610) 555-8903,contact@techsolutions.com
